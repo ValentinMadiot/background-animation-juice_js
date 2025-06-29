@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu de la page animée Juice">  
   </a>  
   </br></br>  
-  <h3 align="center">🍎 Page Jus de Fruits – Animation Fraîche</h3>  
+  <h3 align="center">🍎 Animation de Fond &nbsp;–&nbsp; Jus de Fruits</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,30 +15,28 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Landing page dynamique et fruitée, animée avec GSAP et TweenMax.
+Landing page dynamique et rafraîchissante, animée avec **GSAP** et **TweenMax**. Elle met en scène des visuels vitaminés (jus, pommes, feuilles) dans un univers coloré et responsive.
 
-Elle met en scène des éléments visuels frais (jus, pommes, feuilles) avec un design coloré et responsive, parfait pour des marques de jus ou projets sains.
-
-Chaque élément flotte ou surgit pour offrir une présentation gourmande et moderne.
+Parfaite pour promouvoir des marques de jus, produits naturels ou projets liés au bien-être, chaque élément flotte ou surgit avec fluidité pour offrir une expérience moderne, vive et gourmande.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 (keyframes, media queries, animations)
-- JavaScript ES6
-- [GSAP / TweenMax](https://greensock.com/gsap/) pour les animations
-- Remix Icons pour les pictogrammes
+- HTML5 sémantique et accessible
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [GSAP + TweenMax](https://greensock.com/gsap/) pour les animations
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Animations de feuilles, pommes, liquide et texte via TweenMax
 - Illustration dynamique de boisson fruitée
 - Effets de flottaison et apparitions séquentielles
-- Navigation responsive avec toggle
+- Navigation fluide avec menu responsive
 - Design mobile-first 100% adaptatif
 - Visuels SVG positionnés dynamiquement
 - Palette de couleurs fraîche et estivale
-- Typographie sur mesure (Open Sans + Lemon)
+- Typographie sur mesure via Open Sans et Lemon
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
